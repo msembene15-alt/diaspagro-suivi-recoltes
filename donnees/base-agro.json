@@ -1,0 +1,408 @@
+{
+ "version": "2026-11-26",
+ "avis": "Valeurs lues dans des documents publics. Indicatives : à valider avec un agronome.",
+ "base": [
+  {
+   "nom": "Arachide",
+   "faits": [
+    {
+     "k": "cycle",
+     "v": "90 à 120 jours (variétés homologuées au Sénégal en 2016)",
+     "s": "CIRAD / ISRA – Nouvelles variétés d’arachide au Sénégal",
+     "f": "sn",
+     "u": "https://umr-agap.cirad.fr/media/partenariats/plaquetteafriquedel-ouest",
+     "a": "2016",
+     "n": [
+      90,
+      120
+     ]
+    },
+    {
+     "k": "cycle",
+     "v": "75 à 120 jours selon la variété (10 nouvelles variétés)",
+     "s": "Le Quotidien – 10 nouvelles variétés d’arachide",
+     "f": "pr",
+     "u": "https://lequotidien.sn/arachide-augmentation-significative-de-la-production-le-senegal-mise-sur-10-nouvelles-varietes/",
+     "n": [
+      75,
+      120
+     ]
+    },
+    {
+     "k": "rend",
+     "v": "1,46 t/ha : rendement moyen de l’arachide au Sénégal",
+     "s": "Livre « Crop adaptation » (Kansas State University), d’après FAOSTAT",
+     "f": "sn",
+     "u": "https://kstatelibraries.pressbooks.pub/cropadaptationbook/?p=166",
+     "a": "2020",
+     "n": [
+      1.46
+     ],
+     "o": "obs",
+     "c": "Unité reprise telle quelle de la source (à vérifier)."
+    },
+    {
+     "k": "rend",
+     "v": "Environ 0,8 t/ha en moyenne avec la plupart des anciennes variétés",
+     "s": "Le Quotidien – 10 nouvelles variétés d’arachide",
+     "f": "pr",
+     "u": "https://lequotidien.sn/arachide-augmentation-significative-de-la-production-le-senegal-mise-sur-10-nouvelles-varietes/",
+     "n": [
+      0.8
+     ],
+     "o": "obs"
+    },
+    {
+     "k": "rend",
+     "v": "2,5 à 3 t/ha en gousses : potentiel des nouvelles variétés",
+     "s": "Le Quotidien – 10 nouvelles variétés d’arachide",
+     "f": "pr",
+     "u": "https://lequotidien.sn/arachide-augmentation-significative-de-la-production-le-senegal-mise-sur-10-nouvelles-varietes/",
+     "n": [
+      2.5,
+      3
+     ],
+     "o": "pot"
+    },
+    {
+     "k": "fum",
+     "v": "150 kg/ha de NPK 6-20-10, apportés 10 à 15 jours après le semis (fumure vulgarisée)",
+     "s": "Djiba et al. – Innovations Agronomiques (INRAE / HAL)",
+     "f": "sn",
+     "u": "https://hal.inrae.fr/hal-04927234v1/file/12025_Djiba_Innovations%20Agronomiques.pdf",
+     "a": "2025",
+     "np": [
+      9,
+      30,
+      15
+     ],
+     "c": "Éléments calculés à partir de la formule : 9 N, 30 P₂O₅, 15 K₂O (kg/ha)."
+    },
+    {
+     "k": "fum",
+     "v": "2 t/ha de matière organique en fumure de fond (production de semences)",
+     "s": "IFDC – Fiche technique : produire de la semence d’arachide",
+     "f": "rg",
+     "u": "https://ifdc.org/wp-content/uploads/2019/07/FICHE-TECHNIQUE-3-COMMENT-PRODUIRE-DE-LA-SEMENCE-D%E2%80%99ARACHIDE-ARACHIS-HYPOGAEA-L.-DE-QUALITE-ET-A-HAUT-RENDEMENT.pdf",
+     "a": "2019"
+    },
+    {
+     "k": "prix",
+     "v": "Campagne 2025/26 : l’État maintient le prix officiel à 305 FCFA/kg",
+     "s": "Senego – Arachide : l’État maintient le prix à 305 FCFA le kg",
+     "f": "pr",
+     "u": "https://senego.com/arachide-letat-maintient-le-prix-a-305-fcfa-le-kg-pour-la-nouvelle-campagne-de-commercialisation_1899382.html",
+     "a": "30 nov. 2025",
+     "n": [
+      305
+     ],
+     "c": "Prix officiel à la collecte, à confirmer (type de produit non précisé dans l’extrait lu).",
+     "mois": 11
+    }
+   ]
+  },
+  {
+   "nom": "Mil",
+   "faits": [
+    {
+     "k": "cycle",
+     "v": "Mil souna (hâtif) : 70 à 90 jours, cultivé presque partout",
+     "s": "ISRA Bambey / Ziguinchor – étude sur le mil au Sénégal",
+     "f": "sn",
+     "u": "https://core.ac.uk/download/493002796.pdf",
+     "n": [
+      70,
+      90
+     ]
+    },
+    {
+     "k": "cycle",
+     "v": "Mil sanio (tardif) : 120 à 150 jours, surtout en Casamance et au Sénégal oriental",
+     "s": "ISRA Bambey / Ziguinchor – étude sur le mil au Sénégal",
+     "f": "sn",
+     "u": "https://core.ac.uk/download/493002796.pdf",
+     "n": [
+      120,
+      150
+     ]
+    },
+    {
+     "k": "cycle",
+     "v": "Variétés introduites depuis 2000 : 63 à 90 jours (Chakti 63 j, Souna 3 : 90 j)",
+     "s": "Adaptation du mil et du sorgho dans le nord-est du Sénégal (arXiv)",
+     "f": "sn",
+     "u": "https://arxiv.org/pdf/2504.04965",
+     "n": [
+      63,
+      90
+     ]
+    },
+    {
+     "k": "rend",
+     "v": "Moins de 0,75 t/ha en milieu paysan",
+     "s": "ISRA Bambey / Ziguinchor – étude sur le mil au Sénégal",
+     "f": "sn",
+     "u": "https://core.ac.uk/download/493002796.pdf",
+     "n": [
+      0.75
+     ],
+     "o": "obs",
+     "c": "« Inférieurs à 750 kg/ha » : valeur plafond."
+    },
+    {
+     "k": "rend",
+     "v": "2 à 2,5 t/ha : potentiel des variétés IBV 8001 et IBV 8004 (cycle 75 à 95 jours)",
+     "s": "Catalogue ouest-africain des espèces et variétés (FAO / CEDEAO)",
+     "f": "sn",
+     "u": "https://www.fao.org/docrep/pdf/010/i0062f/i0062f01.pdf",
+     "n": [
+      2,
+      2.5
+     ],
+     "o": "pot"
+    },
+    {
+     "k": "fum",
+     "v": "Recommandation de la recherche : 10 t/ha de fumier + 125 kg/ha de NPK + 93,75 kg/ha d’urée (1,04 t/ha dans l’essai)",
+     "s": "Revue africaine d’environnement et d’agriculture – essai au Sénégal",
+     "f": "sn",
+     "u": "https://ajol.info/index.php/rafea/article/view/240301/227175",
+     "c": "Formule du NPK non indiquée dans l’extrait lu : éléments N-P-K non calculés."
+    },
+    {
+     "k": "fum",
+     "v": "Microdose : 10 t/ha de fumier + 93,75 kg/ha de NPK + 31,25 kg/ha d’urée (0,91 t/ha dans l’essai)",
+     "s": "Revue africaine d’environnement et d’agriculture – essai au Sénégal",
+     "f": "sn",
+     "u": "https://ajol.info/index.php/rafea/article/view/240301/227175"
+    }
+   ]
+  },
+  {
+   "nom": "Oignon",
+   "faits": [
+    {
+     "k": "cycle",
+     "v": "120 à 150 jours pour le Violet de Galmi",
+     "s": "Études publiées sur AJOL (Niger, Burkina Faso)",
+     "f": "rg",
+     "u": "https://ajol.info/index.php/ijbcs/article/view/135914/125410",
+     "n": [
+      120,
+      150
+     ],
+     "c": "Cycle mesuré hors du Sénégal : à adapter."
+    },
+    {
+     "k": "rend",
+     "v": "14,45 t/ha en moyenne dans la vallée du fleuve Sénégal (enquête auprès de 400 producteurs)",
+     "s": "Int. J. Biol. Chem. Sci. – systèmes de culture et de stockage de l’oignon dans la vallée",
+     "f": "sn",
+     "u": "https://ajol.info/index.php/ijbcs/article/view/257812/243500",
+     "n": [
+      14.45
+     ],
+     "o": "obs"
+    },
+    {
+     "k": "rend",
+     "v": "Environ 21 t/ha dans les Niayes (Diouroup, 25 champs suivis sur 3 ans)",
+     "s": "Cahiers Agricultures – données ENDA-PRONAT",
+     "f": "sn",
+     "u": "https://www.cahiersagricultures.fr/articles/cagri/full_html/2019/01/cagri180073/T6.html",
+     "a": "2019",
+     "n": [
+      21
+     ],
+     "o": "obs"
+    },
+    {
+     "k": "rend",
+     "v": "20 à 60 t/ha dans le Gandiolais selon les saisons et les variétés",
+     "s": "De Bon, Faye, Pagès – La production d’oignon dans le Gandiolais (AGRIS / FAO)",
+     "f": "sn",
+     "u": "https://agris.fao.org/search/fr/records/64745bd6542a3f9f03b4ebd7",
+     "a": "1991",
+     "n": [
+      20,
+      60
+     ],
+     "o": "pot"
+    },
+    {
+     "k": "fum",
+     "v": "20 à 30 t/ha de fumure organique + 350 kg/ha de NPK (12-10-20 ou 14-23-14) + 130 kg d’urée",
+     "s": "AJOL – fertilisation de l’oignon (cite Gouyahali, 2016)",
+     "f": "rg",
+     "u": "https://ajol.info/index.php/ijbcs/article/view/191001/180176",
+     "a": "2016",
+     "np": [
+      102,
+      35,
+      70
+     ],
+     "c": "Recommandation du Burkina Faso. Éléments calculés avec le NPK 12-10-20 et l’urée à 46 % : 102 N, 35 P₂O₅, 70 K₂O (kg/ha)."
+    },
+    {
+     "k": "fum",
+     "v": "Dans la vallée du fleuve Sénégal, les producteurs utilisent moins de 1 t/ha d’engrais",
+     "s": "Int. J. Biol. Chem. Sci. – systèmes de culture et de stockage de l’oignon dans la vallée",
+     "f": "sn",
+     "u": "https://ajol.info/index.php/ijbcs/article/view/257812/243500"
+    },
+    {
+     "k": "prix",
+     "v": "Juin 2025 : des producteurs vendent à 105–110 FCFA/kg et demandent au moins 150 FCFA/kg",
+     "s": "AllAfrica – Industrialisation de la filière oignon à Podor",
+     "f": "pr",
+     "u": "https://fr.allafrica.com/stories/202506160276.html",
+     "a": "14 juin 2025",
+     "n": [
+      105,
+      110
+     ],
+     "c": "Prix au producteur.",
+     "mois": 6
+    },
+    {
+     "k": "prix",
+     "v": "Février 2026 : oignon local entre 450 et 500 FCFA/kg (importé : 600 à 700)",
+     "s": "AllAfrica – prix de l’oignon et de la pomme de terre",
+     "f": "pr",
+     "u": "https://fr.allafrica.com/stories/202602220103.html",
+     "a": "22 fév. 2026",
+     "n": [
+      450,
+      500
+     ],
+     "c": "Prix de détail relevé sur un marché (lieu non précisé dans l’extrait).",
+     "mois": 2
+    },
+    {
+     "k": "prix",
+     "v": "Juillet 2026 : l’ARM fixe le sac de 25 kg à 9 000 FCFA, soit 360 FCFA/kg",
+     "s": "Senego – Oignon : le marché rouvre sous quota avec l’ARM et l’IPOS",
+     "f": "pr",
+     "u": "https://senego.com/oignon-le-marche-rouvre-sous-quota-avec-larm-et-lipos_1998500.html",
+     "a": "27 juil. 2026",
+     "n": [
+      360
+     ],
+     "c": "Prix fixé par l’Agence de régulation des marchés.",
+     "mois": 7
+    },
+    {
+     "k": "inf",
+     "v": "Consommation nationale : environ 1 000 t par jour (30 000 t par mois)",
+     "s": "PressAfrik – producteurs de Ngomène",
+     "f": "pr",
+     "u": "https://www.pressafrik.com/%E2%80%8BOignon-les-producteurs-de-Ngomene-alertent-sur-des-risques-de-pertes-apres-l-ouverture-du-marche-aux-gros-producteurs_a308953.html"
+    },
+    {
+     "k": "inf",
+     "v": "Les pertes après la récolte peuvent atteindre 30 % de la production",
+     "s": "Afrique-Sur7 – 450 000 tonnes d’oignons attendues en 2025",
+     "f": "pr",
+     "u": "https://www.afrique-sur7.fr/senegal-450-000-tonnes-doignons-attendues-en-2025",
+     "a": "2025"
+    }
+   ]
+  },
+  {
+   "nom": "Riz",
+   "faits": [
+    {
+     "k": "sais",
+     "v": "Vallée du fleuve : contre-saison chaude de février à juin-juillet ; hivernage de juillet à novembre-décembre ; contre-saison fraîche d’octobre à avril-mai",
+     "s": "IRD – Poussin, diagnostic des systèmes de riziculture irriguée",
+     "f": "sn",
+     "u": "https://horizon.documentation.ird.fr/exl-doc/pleins_textes/divers4/010013872.pdf"
+    },
+    {
+     "k": "rend",
+     "v": "Rendements moyens dans la vallée : 4,02 t/ha en 2000, 5,55 en 2005, 7,5 en contre-saison chaude 2008",
+     "s": "Étude sur l’urée en placement profond (cite le PNAR, 2009)",
+     "f": "sn",
+     "u": "https://core.ac.uk/download/493003144.pdf",
+     "a": "2009",
+     "n": [
+      7.5
+     ],
+     "o": "obs"
+    },
+    {
+     "k": "rend",
+     "v": "7 à 10 t/ha dans la vallée du fleuve (campagne 2024-2025)",
+     "s": "AllAfrica – Sénégal : des récoltes remarquables",
+     "f": "pr",
+     "u": "https://fr.allafrica.com/stories/202510290216.html",
+     "a": "28 oct. 2025",
+     "n": [
+      7,
+      10
+     ],
+     "o": "pot",
+     "c": "Chiffre annoncé par le ministre de l’Agriculture."
+    },
+    {
+     "k": "fum",
+     "v": "Formule 120-60-60 (N, P₂O₅, K₂O) : P et K en fond au repiquage, azote (urée) en 3 apports en couverture",
+     "s": "Gueye, Ndiaye, Dieng – Int. J. Biol. Chem. Sci. (riz irrigué)",
+     "f": "sn",
+     "u": "https://core.ac.uk/download/478400729.pdf",
+     "np": [
+      120,
+      60,
+      60
+     ]
+    },
+    {
+     "k": "fum",
+     "v": "Urée en placement profond : 104 kg N/ha → 7,6 t/ha ; épandage à la volée de 138 kg N/ha → 5,4 t/ha",
+     "s": "Étude sur l’urée en placement profond (casier de Matam, hivernage)",
+     "f": "sn",
+     "u": "https://core.ac.uk/download/493003144.pdf",
+     "np": [
+      104,
+      0,
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "nom": "Tomate",
+   "faits": [
+    {
+     "k": "cycle",
+     "v": "Variété Calypso (ISRA) : 140 jours de la plantation à la maturité",
+     "s": "Catalogue ouest-africain des espèces et variétés (FAO / CEDEAO)",
+     "f": "sn",
+     "u": "https://fao.org/docrep/pdf/010/i0062f/i0062f05.pdf",
+     "n": [
+      140
+     ]
+    },
+    {
+     "k": "rend",
+     "v": "Variété Calypso : potentiel de 60 t/ha",
+     "s": "Catalogue ouest-africain des espèces et variétés (FAO / CEDEAO)",
+     "f": "sn",
+     "u": "https://fao.org/docrep/pdf/010/i0062f/i0062f05.pdf",
+     "n": [
+      60
+     ],
+     "o": "pot"
+    },
+    {
+     "k": "sais",
+     "v": "Vallée du fleuve : tomate et maïs en saison froide (novembre à février)",
+     "s": "Document ancien sur la SAED (core.ac.uk)",
+     "f": "sn",
+     "u": "https://core.ac.uk/download/39874807.pdf",
+     "c": "Document ancien : à confirmer."
+    }
+   ]
+  }
+ ]
+}
